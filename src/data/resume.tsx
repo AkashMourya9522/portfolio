@@ -103,7 +103,7 @@ export const DATA = {
     {
       title: "AI Medical Assistant",
       href: "https://ai-medical-assistant-nu.vercel.app/",
-      // dates: "Aug 2024 - Present",
+      dates: "Aug 2024 - Present",
       active: true,
       description:
         "Built a full-stack AI medical assistant with sign in, live call, live report features",
@@ -127,7 +127,7 @@ export const DATA = {
     {
       title: "Real Estate Application",
       href: "https://real-estate-z2oe.onrender.com/",
-      // dates: "Aug 2024 - Present",
+      dates: "Aug 2024 - Present",
       active: true,
       description:
         "Built a full-stack real estate platform with property listings, user login, and filtering features.",
