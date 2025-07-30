@@ -11,7 +11,7 @@ export const DATA = {
     "Full-stack developer passionate about building impactful web apps using the MERN stack. Enthusiast in hackathons, problem-solving, and learning new tech.",
   summary:
     "I'm Akash, a curious and creative full-stack developer. I've built projects using the MERN stack, participated in multiple hackathons, and enjoy bringing ideas to life through code. My focus is on user-centric design, backend reliability, and seamless frontend experiences.",
-  // avatarUrl: "/me.png",
+  avatarUrl: "",
   skills: [
     "Next.js",
     "React",
